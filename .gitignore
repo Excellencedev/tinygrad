@@ -1,7 +1,6 @@
 __pycache__
 .venv/
 .venv-*/
-.vscode
 .DS_Store
 notebooks
 .*.swp
@@ -65,3 +64,4 @@ target
 .mypy_cache
 mutants
 .mutmut-cache
+config.bat
